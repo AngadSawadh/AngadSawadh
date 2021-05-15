@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AngadSawadh/AngadSawadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![]
+
+## About Me
+- :brain: Person with rational and analytical mind
+- :globe_with_meridians: web developer with love for analytics and machine learning
+- :thought_balloon: dream to create a startup in the field of financial analytics field
+- :mortar_board: Studying Electrical Engineering at NIT Surat (Batch of 2022)
+- :camera: a decent photographer 
