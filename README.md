@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Title Image][titleimage]
 
+[<img src="media/icons/linkedin_bw.png" alt="My Linkedin Profile">](https://www.linkedin.com/in/angadsawadh/)
+[<img src="media/icons/instagram_bw.jpeg" alt="Follow Instagram for awesome object photography"/>]()
+
 ## About Me
 - :brain: Person with rational and analytical mind
 - :globe_with_meridians: Web developer with love for analytics and machine learning
