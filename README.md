@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![]
+![Title Image][titleimage]
 
 ## About Me
 - :brain: Person with rational and analytical mind
@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - :thought_balloon: Dream to create a startup in the field of financial analytics field
 - :mortar_board: Studying Electrical Engineering at NIT Surat (Batch of 2022)
 - :camera: A decent photographer 
+
+[titleimage]: media/animated-gifs/title-img.gif
