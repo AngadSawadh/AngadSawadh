@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - :brain: Person with rational and analytical mind
-- :globe_with_meridians: web developer with love for analytics and machine learning
-- :thought_balloon: dream to create a startup in the field of financial analytics field
+- :globe_with_meridians: Web developer with love for analytics and machine learning
+- :thought_balloon: Dream to create a startup in the field of financial analytics field
 - :mortar_board: Studying Electrical Engineering at NIT Surat (Batch of 2022)
-- :camera: a decent photographer 
+- :camera: A decent photographer 
